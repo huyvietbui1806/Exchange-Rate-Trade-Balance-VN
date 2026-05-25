@@ -1,0 +1,9 @@
+Variable,Baseline (RER),Robust (REER),Difference,Same sign?
+COVID,0.0236,0.0588,0.0352,✓
+ExRate_neg,13.0835,-7.1373,-20.2208,✗
+ExRate_pos,27.1894,1.835,-25.3544,✓
+IPI_VN,-0.008,-0.0071,0.0009,✓
+IPI_World_diff,-0.3141,-0.3921,-0.078,✓
+ln_FDI,-0.6329,1.0311,1.664,✗
+ln_M2_diff,84.0687,326.558,242.4893,✓
+ln_WTI,-0.4455,-0.5578,-0.1123,✓
